@@ -7,7 +7,7 @@ export default function App() {
       height: '100vh',
       fontFamily: 'sans-serif' 
     }}>
-      <h1>Yusuf's Portfolio is Live! 🚀</h1>
+      <h1>Yusuf's Portfolio is Live! 🚀.</h1>
     </div>
   )
 }
